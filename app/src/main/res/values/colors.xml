@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#68A4FF</color>
+    <color name="blue_500">#5196FD</color>
+    <color name="blue_700">#4791FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="internet_conn_red">#EA4343</color>
+    <color name="internet_conn_green">#43A047</color>
+    <color name="blue">#5D89FF</color>
+</resources>
